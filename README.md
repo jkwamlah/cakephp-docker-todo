@@ -1,4 +1,4 @@
-# coding-gems-todo
+# cake-php-docker-todo
 A docker setup for containerized CakePHP Applications
 
 This setup generates the following containers
